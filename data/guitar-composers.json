@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Mauro Giuliani",
+    "birth_place": "Bisceglie",
+    "birth_date": "1781-07-27T00:00:00.000Z",
+    "death_place": "Napoli",
+    "death_pate": "1829-05-07",
+    "modern_country": "Italy",
+    "main_works": [
+      {
+        "title": "Variazioni su un tema originale",
+        "opus_number": "2"
+      },
+      {
+        "title": "Tre rondò",
+        "opus_number": "3"
+      }
+    ],
+    "catalog": [],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mauro_Giuliani"
+  }
+]
